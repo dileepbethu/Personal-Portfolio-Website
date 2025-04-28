@@ -27,4 +27,3 @@ This is a modern and responsive personal portfolio website built using React, Ty
 4. Start the development server: 
    ```sh
    npm run dev
-5. Open http://localhost:5174/ in your browser.
